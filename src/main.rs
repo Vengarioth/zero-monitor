@@ -26,6 +26,8 @@ use egl::{
 mod glesv2;
 use glesv2 as gl;
 
+mod rendering;
+
 pub struct Context {
     pub config:  EGLConfig,
     pub context: EGLContext,
