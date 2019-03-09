@@ -1,0 +1,11 @@
+[package]
+name = "zero-monitor"
+version = "0.1.0"
+authors = ["Andreas Fischer <home@deviru.de>"]
+edition = "2018"
+build = "build.rs"
+
+[dependencies]
+libc = "0.2"
+khronos = "0.1"
+videocore = "0.1"
