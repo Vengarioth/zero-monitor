@@ -2,6 +2,8 @@
 
 Headless raspberry pi zero based kiosk monitor
 
+![Example Image](./resources/pi-zero-triangle.jpg)
+
 ## Setup
 
 This code is built to run on `Raspbian Stretch Lite` (version `November 2018`), without a desktop, on a `Raspberry Pi Zero`.
